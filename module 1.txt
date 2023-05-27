@@ -1,0 +1,30 @@
+Question:What is software? What is software engineering?
+Answer  : software is a set of instruction to perform perticular task.building set of instruction to perform task is called software engineering.
+
+Question:Explain types of software?
+Answer  :application software,system software,driver software,middleware software,programming software.
+
+
+Question:What is SDLC? Explain each phase of SDLC.
+Answer  :The Software Development life cycle refers to a methodology with clearly defined processes for creating high-quality software.
+	 1. Requirement Gathering.
+	 2. Analysis.
+	 3. Designing.
+	 4. Implementation.
+	 5. Testing.
+	 6. Maintenance.
+
+
+Question:What is DFD?
+Answer  :Data Flow Diagram. It is a graphical representation of the flow of data.
+
+
+Question:What is Flow chart? Create a flowchart to make addition of two numbers.
+Answer  :A flowchart is a graphical representation of a process or algorithm that 
+	 uses different symbols and arrows to depict the flow of control and data within the system. It provides a visual representation of the steps.
+steps:   start
+	 take value of A
+	 take value of B
+	 combine the value of A+B
+	 display the sum
+	 end
